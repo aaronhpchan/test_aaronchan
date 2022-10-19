@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company_name": "alfreds futterkiste",
+      "name": "maria anders",
+      "contact": {
+        "mobile": "45665672",
+        "email": "abc@lkc.com"
+      },
+      "spend_amount": 781500.4034
+    },
+    {
+      "company_name": "centro comercial moctezuma",
+      "name": "francisco chang",
+      "contact": {
+        "mobile": "92348793",
+        "email": "abc@lkc.com"
+      },
+      "spend_amount": 467500.8082
+    },
+    {
+      "company_name": "ERNST HANDEL",
+      "name": "ROLAND MENDEL",
+      "contact": {
+        "mobile": "97812364",
+        "email": "abc@lkc.com"
+      },
+      "spend_amount": 464120.0998
+    },
+    {
+      "company_name": "Island Trading",
+      "name": "Yoshi Tannamuri",
+      "contact": {
+        "mobile": "98723152",
+        "email": "abc@lkc.com"
+      },
+      "spend_amount": 798109.4035
+    }
+  ]
+}
